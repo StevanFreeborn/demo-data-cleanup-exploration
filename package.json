@@ -1,0 +1,16 @@
+{
+  "name": "demo-data-cleanup-exploration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "onspring-api-sdk": "^1.0.3",
+    "playwright": "^1.42.1"
+  }
+}
